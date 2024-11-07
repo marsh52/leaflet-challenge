@@ -1,2 +1,2 @@
 # leaflet-challenge
-Module 15 Challenge
+This challenge's purpose is to generate an interactive map of earthquake data.
